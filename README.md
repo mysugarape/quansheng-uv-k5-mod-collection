@@ -6,12 +6,9 @@ Any information for the firmwares are located in the folder. Thanks to all the p
 
 
 - EGZUMER Firmware
-<br>
 
 - PHDLEE Firmware
-<br>
 
 - UV MOD KITCHEN
-<br>
 
 Any other useful informarions about thie radio, i will add here !
