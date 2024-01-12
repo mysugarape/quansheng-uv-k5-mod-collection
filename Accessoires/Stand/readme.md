@@ -1,3 +1,3 @@
 Quansheng Stand/Mount
 
-this is a stand/mount i designed for the Quansheng Radio. At this time the Files are not released to public.
+this is a stand/mount i designed for the Quansheng UV-5K Radio, but should fit to all Quansheng radios. For now the files are not released to public.
