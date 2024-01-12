@@ -1,7 +1,7 @@
 # QuanshengUV-K5-MODs
 Collection of Firmwares for the Quansheng Handheld Radio
 
-EGZUMER Firmware:
+<h3>EGZUMER Firmware:</h3>
 
 Great Firmware, with many fixes and extented fuctions, thanks egzumer and all the other for this great piece of code.
 
