@@ -15,4 +15,6 @@ Any information for the firmwares are located in their own folder. Thanks to all
 
 <h3>Accessoires</h3>
 
+- Stand/Holder
+
 Any other useful informarions about thie radio, i will add here !
