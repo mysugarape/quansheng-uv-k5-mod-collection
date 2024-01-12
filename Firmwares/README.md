@@ -8,7 +8,7 @@ Great Firmware, with many fixes and extented fuctions, thanks egzumer and all th
 Link:
 https://github.com/egzumer/uv-k5-firmware-custom<br><br>
 
-PHDLEE Firmware:
+<h3>PHDLEE Firmware:</h3>
 
 Another great piece of code, which is able to send SSTV signals out, based on egzumer Firmware. Thanks phdlee for the work !
 
