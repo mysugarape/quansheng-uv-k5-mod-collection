@@ -6,7 +6,7 @@ Collection of Firmwares for the Quansheng Handheld Radio
 Great Firmware, with many fixes and extented fuctions, thanks egzumer and all the other for this great piece of code.
 
 Link:
-https://github.com/egzumer/uv-k5-firmware-custom
+https://github.com/egzumer/uv-k5-firmware-custom<br>
 
 PHDLEE Firmware:
 
