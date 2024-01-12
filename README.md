@@ -6,13 +6,13 @@ Any information for the firmwares are located in their own folder. Thanks to all
 
 
 
-- EGZUMER Firmware
+- EGZUMER Firmware<br>
 (https://github.com/egzumer/uv-k5-firmware-custom)
 
-- PHDLEE Firmware
+- PHDLEE Firmware<br>
 (https://github.com/phdlee/uvk5cec)
 
-- UV MOD KITCHEN
+- UV MOD KITCHEN<br>
 (https://whosmatt.github.io/uvmod/)
 
 
