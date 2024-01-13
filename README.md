@@ -18,6 +18,9 @@ https://whosmatt.github.io/uvmod/
 - IU0IJV Firmware<br>
 https://www.universirius.com/en_gb/preppers/quansheng-uv-k5-manuale-del-firmware-ijv/
 
+- Quansheng Dock Firmware<br>
+https://github.com/nicsure/quansheng-dock-fw
+
 
 <h3>Accessoires</h3>
 
