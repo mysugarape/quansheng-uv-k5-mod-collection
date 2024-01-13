@@ -15,6 +15,9 @@ https://github.com/phdlee/uvk5cec
 - UV MOD KITCHEN<br>
 https://whosmatt.github.io/uvmod/
 
+- IU0IJV Firmware<br>
+https://www.universirius.com/en_gb/preppers/quansheng-uv-k5-manuale-del-firmware-ijv/
+
 
 <h3>Accessoires</h3>
 
