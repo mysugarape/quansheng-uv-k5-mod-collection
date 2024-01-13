@@ -6,7 +6,7 @@ Collection of Firmwares for the Quansheng Handheld Radio
 this is the stock firmware for the quansheng UV-K5
 
 Link:
-http://en.qsfj.com/products/3268
+http://en.qsfj.com/products/3268<br>
 
 <h3>EGZUMER Firmware:</h3>
 
