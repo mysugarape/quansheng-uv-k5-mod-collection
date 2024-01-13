@@ -1,6 +1,7 @@
 <h1>IU0IJV Firmware</h1>
 
-Flash with Browser:
+<h3>Flash with Browser:</h3>
+direct link to firmware, showed a CRC check error, but upload works<br>
 1. Download Firmware
 2. Visit: https://egzumer.github.io/uvtools/
 3. Click Browse and select the downloaded Firmware
